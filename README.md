@@ -38,8 +38,6 @@ Thank you for supporting TeamSeas and happy crafting!
 
 Feel free to contribute, raise issues, or reach out if you have any questions. Enjoy your Minecraft adventures!
 
-[Visit the GitHub Pages site](https://yourusername.github.io/minecraft-resource-pack/)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
